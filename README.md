@@ -1,4 +1,4 @@
 # :juggling_person: Juego de Tic Tac Toe.
-<p>
   Un pequeño juego de destreza mental, a forma didáctica.
-</p>
+  
+<img src="https://github.com/DoctorBIOS1990/GAME-Tic-Tac-Toe/blob/main/ScreenShot/ScreenShot.png" width="50%">
