@@ -1,4 +1,4 @@
-# :juggling_person: Game Tic Tac Toc.
+# :juggling_person: Game Tic Tac Toe.
 <p>  Un pequeño juego de destreza mental, a forma didáctica.</p>
 
 <div align="center">
